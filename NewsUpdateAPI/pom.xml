@@ -15,7 +15,8 @@
 	<name>NewsUpdateAPI</name>
 	<description>This API will update the content in fire store data base</description>
 	<properties>
-		<java.version>11</java.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
